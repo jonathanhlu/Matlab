@@ -1,2 +1,2 @@
 # Matlab
-# Game of life simulation
+Game of life simulation
